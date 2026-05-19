@@ -21,6 +21,8 @@ This repository contains my Data Structures and Algorithms preparation for place
 ## Strings
 - Valid Anagram
 
+## Maths
+- Palindrome
 ---
 
 # Patterns Learned
