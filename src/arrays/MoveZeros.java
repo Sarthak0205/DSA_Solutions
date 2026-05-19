@@ -1,7 +1,7 @@
 package arrays;
 
 public class MoveZeros {
-        public void moveZeroes(int[] nums) {
+        public static void moveZeroes(int[] nums) {
             int i=0,j=0;
             while(j<nums.length){
                 if(nums[j]==0){
@@ -17,4 +17,9 @@ public class MoveZeros {
                 }
             }
         }
+
+    static void main() {
+        int[] nums={0,1,0,3,12};
+        moveZeroes(nums);
+    }
     }
