@@ -16,6 +16,7 @@ This repository contains my Data Structures and Algorithms preparation for place
 - Two Sum
 - Best Time to Buy and Sell Stock
 - Contains Duplicate
+- Move Zeros
 
 ## Strings
 - Valid Anagram
@@ -36,10 +37,10 @@ This repository contains my Data Structures and Algorithms preparation for place
 # Progress Tracker
 
 | Topic | Problems Solved |
-|---|---|
-| Arrays | 3 |
-| Strings | 1 |
-| Hashing | 3 |
+|---|-----------------|
+| Arrays | 4               |
+| Strings | 1               |
+| Hashing | 3               |
 
 ---
 
