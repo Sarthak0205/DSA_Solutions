@@ -20,6 +20,7 @@ This repository contains my Data Structures and Algorithms preparation for place
 
 ## Strings
 - Valid Anagram
+- Valid Palindrome
 
 ## Maths
 - Palindrome
@@ -41,7 +42,7 @@ This repository contains my Data Structures and Algorithms preparation for place
 | Topic | Problems Solved |
 |---|-----------------|
 | Arrays | 4               |
-| Strings | 1               |
+| Strings | 2               |
 | Hashing | 3               |
 
 ---
