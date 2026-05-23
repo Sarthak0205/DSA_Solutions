@@ -13,12 +13,16 @@ This repository contains my Data Structures and Algorithms preparation for place
 # Topics Covered
 
 ## Arrays
+### Easy
 - Two Sum
 - Best Time to Buy and Sell Stock
 - Contains Duplicate
 - Move Zeros
+### Medium
+- Product of Array Except Self
 
 ## Strings
+### Easy
 - Valid Anagram
 - Valid Palindrome
 - Valid Palindrome II
@@ -40,9 +44,9 @@ This repository contains my Data Structures and Algorithms preparation for place
 
 # Progress Tracker
 
-| Topic | Problems Solved |
-|---|-----------------|
-| Arrays | 4               |
+| Topic   | Problems Solved |
+|---------|-----------------|
+| Arrays  | 5               |
 | Strings | 3               |
 | Hashing | 3               |
 
