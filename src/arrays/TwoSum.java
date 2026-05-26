@@ -28,23 +28,47 @@ Learning Notes:
 import java.util.HashMap;
 
 public class TwoSum {
-    public int[] twoSum(int[] nums, int target) {
-        HashMap<Integer,Integer> map = new HashMap<>();
-        int arr[]=new int[2];
+    //Brute Force TC : O(n^2) SC : O(1)
+//    public static int[] twoSum(int[] nums,int target){
+//        int[] arr=new int[2];
+//        for (int i = 0; i < nums.length; i++) {
+//            for (int j = 0; j < nums.length; j++) {
+//                if(i==j) continue;
+//                if(nums[i]+nums[j]==target){
+//                    arr[0]=i;
+//                    arr[1]=j;
+//                    return arr;
+//                }
+//            }
+//        }
+//        return arr;
+//    }
 
-        for(int i=0;i<nums.length;i++){
-            int value =target - nums[i];
-            if(map.containsKey(value)){
-                arr[0]=i;
-                arr[1]=map.get(value);
-                // return arr;
-            }
-            else
-            {
-                map.put(nums[i],i);
+
+    public static int[] twoSum(int[] nums, int target) {
+        HashMap<Integer,Integer> map=new HashMap<>();
+        int arr[]=new int[2];
+        for (int i = 0; i < nums.length; i++) {
+            map.put(nums[i],i);
+        }
+        for(int num:nums){
+            int n=target - num;
+            if(map.containsKey(n)){
+                arr[0]=map.get(num);
+                arr[1]=map.get(n);
+                return arr;
             }
         }
-
         return arr;
+    }
+
+
+    static void main() {
+        int[] nums ={-1,-2,-3,-4,-5};
+        int target=-8;
+        int[] arr=twoSum(nums,target);
+        for(int i=0;i<2;i++){
+            System.out.println(arr[i]);
+        }
     }
 }
