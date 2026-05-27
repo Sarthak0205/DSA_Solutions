@@ -14,12 +14,20 @@ This repository contains my Data Structures and Algorithms preparation for place
 
 ## Arrays
 ### Easy
-- Two Sum
-- Best Time to Buy and Sell Stock
-- Contains Duplicate
-- Move Zeros
+- BestTimeToBuyAndSellStock 
+- FindUniqueElementInArray 
+- FindUniqueEven 
+- MaximumAverageSubArray 
+- MaximumSumSubArray
+- MissingNumber 
+- MoveZeros 
+- Palindrome 
+- RemoveDuplicatesFromSortedArray 
+- Sort0sAnd1s 
+- TwoSum
 ### Medium
 - Product of Array Except Self
+- ThreeSum
 
 ## Strings
 ### Easy
@@ -39,6 +47,7 @@ This repository contains my Data Structures and Algorithms preparation for place
 - Running maximum profit
 - Greedy thinking
 - Complement logic
+- Sliding Window
 
 ---
 
@@ -46,7 +55,7 @@ This repository contains my Data Structures and Algorithms preparation for place
 
 | Topic   | Problems Solved |
 |---------|-----------------|
-| Arrays  | 5               |
+| Arrays  | 13              |
 | Strings | 3               |
 | Hashing | 3               |
 
