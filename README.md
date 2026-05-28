@@ -35,6 +35,9 @@ This repository contains my Data Structures and Algorithms preparation for place
 - Valid Palindrome
 - Valid Palindrome II
 
+### Medium
+- Longest Substring without repeating characters
+
 ## Maths
 - Palindrome
 ---
