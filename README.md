@@ -34,6 +34,7 @@ This repository contains my Data Structures and Algorithms preparation for place
 - Valid Anagram
 - Valid Palindrome
 - Valid Palindrome II
+- Maximum Number of Vowels in a Substring of Given Length
 
 ### Medium
 - Longest Substring without repeating characters
