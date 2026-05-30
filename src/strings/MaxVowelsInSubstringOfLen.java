@@ -25,7 +25,6 @@ public class MaxVowelsInSubstringOfLen {
     //Optimised
     public static int maxVowels(String s, int k){
         int maxCount;
-
         int count=0;
         for (int i = 0; i < k; i++) {
             char c=Character.toLowerCase(s.charAt(i));
