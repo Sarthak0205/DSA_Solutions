@@ -38,6 +38,8 @@ This repository contains my Data Structures and Algorithms preparation for place
 
 ### Medium
 - Longest Substring without repeating characters
+- Find All Anagrams in String
+- Longest Repeating Character Replacement
 
 ## Maths
 - Palindrome
