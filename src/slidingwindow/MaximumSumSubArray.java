@@ -1,4 +1,4 @@
-package arrays;
+package slidingwindow;
 
 public class MaximumSumSubArray {
 //    public static int findMaxSum(int[] nums, int k) {

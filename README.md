@@ -3,72 +3,190 @@
 This repository contains my Data Structures and Algorithms preparation for placements.
 
 ## Goals
-- Improve problem-solving skills
-- Build consistency in DSA
-- Prepare for coding interviews and placement tests
-- Track patterns and optimization techniques
+
+* Improve problem-solving skills
+* Build consistency in DSA
+* Prepare for coding interviews and placement tests
+* Track patterns and optimization techniques
+* Build a strong revision repository for placements
 
 ---
 
 # Topics Covered
 
 ## Arrays
+
 ### Easy
-- BestTimeToBuyAndSellStock 
-- FindUniqueElementInArray 
-- FindUniqueEven 
-- MaximumAverageSubArray 
-- MaximumSumSubArray
-- MissingNumber 
-- MoveZeros 
-- Palindrome 
-- RemoveDuplicatesFromSortedArray 
-- Sort0sAnd1s 
-- TwoSum
+
+* Best Time to Buy and Sell Stock
+* Find Unique Element in Array
+* Find Unique Even
+* Maximum Average SubArray
+* Maximum Sum SubArray
+* Missing Number
+* Move Zeros
+* Palindrome
+* Remove Duplicates From Sorted Array
+* Sort 0s And 1s
+* Two Sum
+
 ### Medium
-- Product of Array Except Self
-- ThreeSum
+
+* Product Of Arrays Except Self
+* Three Sum
+
+---
+
+## Binary Search
+
+### Easy
+
+* Binary Search
+
+---
+
+## Hashing
+
+### Easy
+
+* Contains Duplicate
+
+---
 
 ## Strings
+
 ### Easy
-- Valid Anagram
-- Valid Palindrome
-- Valid Palindrome II
-- Maximum Number of Vowels in a Substring of Given Length
+
+* Valid Anagram
+* Valid Palindrome
+* Valid Palindrome II
+
+---
+
+## Sliding Window
+
+### Easy
+
+* Maximum Number Of Vowels In Substring Of Length K
+* Find All Anagrams In String
 
 ### Medium
-- Longest Substring without repeating characters
-- Find All Anagrams in String
-- Longest Repeating Character Replacement
+
+* Longest Substring Without Repeating Characters
+* Longest Repeating Character Replacement
+
+---
 
 ## Maths
-- Palindrome
+
+### Easy
+
+* Palindrome
+
 ---
 
 # Patterns Learned
 
-- HashMap lookup
-- Frequency counting
-- Running minimum
-- Running maximum profit
-- Greedy thinking
-- Complement logic
-- Sliding Window
+* HashMap Lookup
+* Frequency Counting
+* Complement Logic
+* Running Minimum
+* Running Maximum Profit
+* Two Pointers
+* Fixed Sliding Window
+* Variable Sliding Window
+* Binary Search
 
 ---
 
 # Progress Tracker
 
-| Topic   | Problems Solved |
-|---------|-----------------|
-| Arrays  | 13              |
-| Strings | 3               |
-| Hashing | 3               |
+| Topic          | Easy | Medium | Hard | Total |
+| -------------- | ---- | ------ | ---- | ----- |
+| Arrays         | 11   | 2      | 0    | 13    |
+| Strings        | 3    | 0      | 0    | 3     |
+| Sliding Window | 2    | 2      | 0    | 4     |
+| Binary Search  | 1    | 0      | 0    | 1     |
+| Hashing        | 1    | 0      | 0    | 1     |
+| DP             | 0    | 0      | 0    | 0     |
+| Graphs         | 0    | 0      | 0    | 0     |
+| Linked List    | 0    | 0      | 0    | 0     |
+| Queue          | 0    | 0      | 0    | 0     |
+| Stack          | 0    | 0      | 0    | 0     |
+| Trees          | 0    | 0      | 0    | 0     |
+
+### Total Problems Solved: 22
+
+---
+
+# Current Roadmap
+
+## Arrays
+
+* [x] Two Sum
+* [x] Move Zeros
+* [x] Remove Duplicates From Sorted Array
+* [x] Best Time To Buy And Sell Stock
+* [x] Product Of Arrays Except Self
+* [x] Three Sum
+
+## Sliding Window
+
+* [x] Maximum Average SubArray
+* [x] Maximum Sum SubArray
+* [x] Maximum Number Of Vowels In Substring Of Length K
+* [x] Find All Anagrams In String
+* [x] Longest Substring Without Repeating Characters
+* [x] Longest Repeating Character Replacement
+
+## Binary Search
+
+* [x] Binary Search
+* [ ] Search Insert Position
+* [ ] First Bad Version
+* [ ] Find Peak Element
+* [ ] Search In Rotated Sorted Array
+
+## Upcoming Topics
+
+* [ ] Linked List
+* [ ] Stack
+* [ ] Queue
+* [ ] Trees
+* [ ] Heap
+* [ ] Graphs
+* [ ] Dynamic Programming
+
+---
+
+# Repository Structure
+
+```text
+src
+├── arrays
+├── binarysearch
+├── dp
+├── graphs
+├── hashing
+├── linkedlist
+├── queue
+├── slidingwindow
+├── stack
+├── strings
+├── trees
+└── Main.java
+```
 
 ---
 
 # Notes
 
-- Focus on understanding patterns instead of memorizing solutions.
-- Maintain consistency daily.
-- Revise optimized approaches regularly.
+* Focus on understanding patterns instead of memorizing solutions.
+* Always start with brute force before optimization.
+* Maintain consistency over intensity.
+* Track time and space complexity for every solution.
+* Revise medium problems regularly.
+* Learn the intuition behind patterns, not just the code.
+* Use this repository as a revision guide before placements and interviews.
+
+---

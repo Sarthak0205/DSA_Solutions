@@ -1,4 +1,4 @@
-package strings;
+package slidingwindow;
 
 import java.util.HashSet;
 

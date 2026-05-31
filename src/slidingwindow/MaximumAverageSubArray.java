@@ -1,4 +1,4 @@
-package arrays;
+package slidingwindow;
 
 public class MaximumAverageSubArray {
 //    public static double findMaxAverage(int[] nums, int k) {

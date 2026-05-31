@@ -1,6 +1,4 @@
-package strings;
-
-import java.util.Arrays;
+package slidingwindow;
 
 public class LongestRepeatingCharacterReplacement {
 

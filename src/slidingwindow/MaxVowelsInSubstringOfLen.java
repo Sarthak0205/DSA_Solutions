@@ -1,4 +1,4 @@
-package strings;
+package slidingwindow;
 
 public class MaxVowelsInSubstringOfLen {
 //    public static int maxVowels(String s, int k) {
