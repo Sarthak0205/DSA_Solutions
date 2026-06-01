@@ -44,6 +44,9 @@ This repository contains my Data Structures and Algorithms preparation for place
 * Binary Search
 * Search Insert Position
 * First Bad Version
+### Medium
+* Find Peak Element
+
 
 ---
 
@@ -104,18 +107,18 @@ This repository contains my Data Structures and Algorithms preparation for place
 # Progress Tracker
 
 | Topic          | Easy | Medium | Hard | Total |
-| -------------- |------| ------ | ---- |-------|
-| Arrays         | 11   | 2      | 0    | 13    |
-| Strings        | 3    | 0      | 0    | 3     |
-| Sliding Window | 2    | 2      | 0    | 4     |
-| Binary Search  | 3    | 0      | 0    | 3     |
-| Hashing        | 1    | 0      | 0    | 1     |
-| DP             | 0    | 0      | 0    | 0     |
-| Graphs         | 0    | 0      | 0    | 0     |
-| Linked List    | 0    | 0      | 0    | 0     |
-| Queue          | 0    | 0      | 0    | 0     |
-| Stack          | 0    | 0      | 0    | 0     |
-| Trees          | 0    | 0      | 0    | 0     |
+| -------------- |------| ------ | ---- |-----|
+| Arrays         | 11   | 2      | 0    | 13  |
+| Strings        | 3    | 0      | 0    | 3   |
+| Sliding Window | 2    | 2      | 0    | 4   |
+| Binary Search  | 4    | 0      | 0    | 4   |
+| Hashing        | 1    | 0      | 0    | 1   |
+| DP             | 0    | 0      | 0    | 0   |
+| Graphs         | 0    | 0      | 0    | 0   |
+| Linked List    | 0    | 0      | 0    | 0   |
+| Queue          | 0    | 0      | 0    | 0   |
+| Stack          | 0    | 0      | 0    | 0   |
+| Trees          | 0    | 0      | 0    | 0   |
 
 ### Total Problems Solved: 22
 
@@ -146,7 +149,7 @@ This repository contains my Data Structures and Algorithms preparation for place
 * [x] Binary Search
 * [x] Search Insert Position
 * [x] First Bad Version
-* [ ] Find Peak Element
+* [x] Find Peak Element
 * [ ] Search In Rotated Sorted Array
 
 ## Upcoming Topics
