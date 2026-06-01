@@ -43,6 +43,7 @@ This repository contains my Data Structures and Algorithms preparation for place
 
 * Binary Search
 * Search Insert Position
+* First Bad Version
 
 ---
 
@@ -107,7 +108,7 @@ This repository contains my Data Structures and Algorithms preparation for place
 | Arrays         | 11   | 2      | 0    | 13    |
 | Strings        | 3    | 0      | 0    | 3     |
 | Sliding Window | 2    | 2      | 0    | 4     |
-| Binary Search  | 2    | 0      | 0    | 2     |
+| Binary Search  | 3    | 0      | 0    | 3     |
 | Hashing        | 1    | 0      | 0    | 1     |
 | DP             | 0    | 0      | 0    | 0     |
 | Graphs         | 0    | 0      | 0    | 0     |
@@ -144,7 +145,7 @@ This repository contains my Data Structures and Algorithms preparation for place
 
 * [x] Binary Search
 * [x] Search Insert Position
-* [ ] First Bad Version
+* [x] First Bad Version
 * [ ] Find Peak Element
 * [ ] Search In Rotated Sorted Array
 
