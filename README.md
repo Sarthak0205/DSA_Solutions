@@ -108,7 +108,7 @@ This repository contains my Data Structures and Algorithms preparation for place
 # Progress Tracker
 
 | Topic          | Easy | Medium | Hard | Total |
-| -------------- |------| ------ | ---- |-------|
+|----------------|------|--------|------|-------|
 | Arrays         | 11   | 2      | 0    | 13    |
 | Strings        | 3    | 0      | 0    | 3     |
 | Sliding Window | 2    | 2      | 0    | 4     |
