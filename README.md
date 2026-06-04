@@ -116,12 +116,12 @@ This repository contains my Data Structures and Algorithms preparation for place
 | Hashing        | 1    | 0      | 0    | 1     |
 | DP             | 0    | 0      | 0    | 0     |
 | Graphs         | 0    | 0      | 0    | 0     |
-| Linked List    | 0    | 0      | 0    | 0     |
+| Linked List    | 1    | 0      | 0    | 1     |
 | Queue          | 0    | 0      | 0    | 0     |
 | Stack          | 0    | 0      | 0    | 0     |
 | Trees          | 0    | 0      | 0    | 0     |
 
-### Total Problems Solved: 27
+### Total Problems Solved: 28
 
 ---
 
@@ -153,9 +153,17 @@ This repository contains my Data Structures and Algorithms preparation for place
 * [x] Find Peak Element
 * [x] Search In Rotated Sorted Array
 
+## Linked List
+
+* [x] Reverse A Linked List
+* [ ] Middle of the Linked List
+* [ ] Linked List Cycle
+* [ ] Merge Two Sorted Linked List
+* [ ] Remove Nth Node From End of Linked List 
+
 ## Upcoming Topics
 
-* [ ] Linked List
+* [X] Linked List (Started)
 * [ ] Stack
 * [ ] Queue
 * [ ] Trees
