@@ -107,21 +107,22 @@ This repository contains my Data Structures and Algorithms preparation for place
 
 # Progress Tracker
 
-| Topic          | Easy | Medium | Hard | Total |
-|----------------|------|--------|------|-------|
-| Arrays         | 11   | 2      | 0    | 13    |
-| Strings        | 3    | 0      | 0    | 3     |
-| Sliding Window | 2    | 2      | 0    | 4     |
-| Binary Search  | 5    | 0      | 0    | 5     |
-| Hashing        | 1    | 0      | 0    | 1     |
-| DP             | 0    | 0      | 0    | 0     |
-| Graphs         | 0    | 0      | 0    | 0     |
-| Linked List    | 1    | 0      | 0    | 1     |
-| Queue          | 0    | 0      | 0    | 0     |
-| Stack          | 0    | 0      | 0    | 0     |
-| Trees          | 0    | 0      | 0    | 0     |
+| Topic                    | Easy | Medium | Hard | Total |
+|--------------------------|------|--------|------|-------|
+| Arrays                   | 11   | 2      | 0    | 13    |
+| Strings                  | 3    | 0      | 0    | 3     |
+| Sliding Window           | 2    | 2      | 0    | 4     |
+| Binary Search            | 5    | 0      | 0    | 5     |
+| Hashing                  | 1    | 0      | 0    | 1     |
+| DP                       | 0    | 0      | 0    | 0     |
+| Graphs                   | 0    | 0      | 0    | 0     |
+| Linked List              | 3    | 0      | 0    | 3     |
+| Queue                    | 0    | 0      | 0    | 0     |
+| Stack                    | 0    | 0      | 0    | 0     |
+| Trees                    | 0    | 0      | 0    | 0     |
+| SDE Challenge <br/>Sheet | 1    | 0      | 0    | 1     |
 
-### Total Problems Solved: 28
+### Total Problems Solved: 31
 
 ---
 
@@ -156,8 +157,8 @@ This repository contains my Data Structures and Algorithms preparation for place
 ## Linked List
 
 * [x] Reverse A Linked List
-* [ ] Middle of the Linked List
-* [ ] Linked List Cycle
+* [x] Middle of the Linked List
+* [x] Linked List Cycle
 * [ ] Merge Two Sorted Linked List
 * [ ] Remove Nth Node From End of Linked List 
 
