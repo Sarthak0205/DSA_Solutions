@@ -1,4 +1,4 @@
-# DSA Placement Prep
+# DSA Solutions
 
 This repository contains my Data Structures and Algorithms preparation for placements.
 
