@@ -116,7 +116,7 @@ This repository contains my Data Structures and Algorithms preparation for place
 | Hashing                  | 1    | 0      | 0    | 1     |
 | DP                       | 0    | 0      | 0    | 0     |
 | Graphs                   | 0    | 0      | 0    | 0     |
-| Linked List              | 3    | 0      | 0    | 3     |
+| Linked List              | 4    | 0      | 0    | 4     |
 | Queue                    | 0    | 0      | 0    | 0     |
 | Stack                    | 0    | 0      | 0    | 0     |
 | Trees                    | 0    | 0      | 0    | 0     |
@@ -159,7 +159,7 @@ This repository contains my Data Structures and Algorithms preparation for place
 * [x] Reverse A Linked List
 * [x] Middle of the Linked List
 * [x] Linked List Cycle
-* [ ] Merge Two Sorted Linked List
+* [x] Merge Two Sorted Linked List
 * [ ] Remove Nth Node From End of Linked List 
 
 ## Upcoming Topics
