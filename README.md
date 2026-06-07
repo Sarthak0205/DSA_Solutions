@@ -116,13 +116,13 @@ This repository contains my Data Structures and Algorithms preparation for place
 | Hashing                  | 1    | 0      | 0    | 1     |
 | DP                       | 0    | 0      | 0    | 0     |
 | Graphs                   | 0    | 0      | 0    | 0     |
-| Linked List              | 4    | 0      | 0    | 4     |
+| Linked List              | 5    | 0      | 0    | 5     |
 | Queue                    | 0    | 0      | 0    | 0     |
 | Stack                    | 0    | 0      | 0    | 0     |
 | Trees                    | 0    | 0      | 0    | 0     |
-| SDE Challenge <br/>Sheet | 1    | 0      | 0    | 1     |
+| SDE Challenge <br/>Sheet | 2    | 0      | 0    | 2     |
 
-### Total Problems Solved: 31
+### Total Problems Solved: 33
 
 ---
 
@@ -160,7 +160,7 @@ This repository contains my Data Structures and Algorithms preparation for place
 * [x] Middle of the Linked List
 * [x] Linked List Cycle
 * [x] Merge Two Sorted Linked List
-* [ ] Remove Nth Node From End of Linked List 
+* [x] Remove Nth Node From End of Linked List 
 
 ## Upcoming Topics
 
@@ -178,6 +178,7 @@ This repository contains my Data Structures and Algorithms preparation for place
 
 ```text
 src
+├── SDEChallenge
 ├── arrays
 ├── binarysearch
 ├── dp

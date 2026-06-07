@@ -4,7 +4,7 @@ Started: June 2026
 
 ### Day 1
 - Pascal's Triangle ✅
-- Set Matrix Zeroes ⬜
+- Set Matrix Zeroes ✅
 - Next Permutation ⬜
 
 ### Day 2
