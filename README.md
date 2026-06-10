@@ -120,9 +120,9 @@ This repository contains my Data Structures and Algorithms preparation for place
 | Queue                    | 0    | 0      | 0    | 0     |
 | Stack                    | 0    | 0      | 0    | 0     |
 | Trees                    | 0    | 0      | 0    | 0     |
-| SDE Challenge <br/>Sheet | 2    | 0      | 0    | 2     |
+| SDE Challenge <br/>Sheet | 2    | 3      | 0    | 5     |
 
-### Total Problems Solved: 37
+### Total Problems Solved: 39
 
 ---
 
