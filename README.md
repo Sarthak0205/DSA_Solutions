@@ -118,11 +118,11 @@ This repository contains my Data Structures and Algorithms preparation for place
 | Graphs                   | 0    | 0      | 0    | 0     |
 | Linked List              | 7    | 2      | 0    | 9     |
 | Queue                    | 0    | 0      | 0    | 0     |
-| Stack                    | 0    | 0      | 0    | 0     |
+| Stack                    | 1    | 0      | 0    | 1     |
 | Trees                    | 0    | 0      | 0    | 0     |
 | SDE Challenge <br/>Sheet | 2    | 3      | 0    | 5     |
 
-### Total Problems Solved: 39
+### Total Problems Solved: 40
 
 ---
 
@@ -165,10 +165,12 @@ This repository contains my Data Structures and Algorithms preparation for place
 * [x] Intersection of Two Linked List
 * [x] Reorder List
 
+## Stack
+*[x] Valid Parentheses
 ## Upcoming Topics
 
-* [X] Linked List (Started)
-* [ ] Stack
+* [X] Linked List (Done)
+* [X] Stack (Started)
 * [ ] Queue
 * [ ] Trees
 * [ ] Heap
