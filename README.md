@@ -118,11 +118,11 @@ This repository contains my Data Structures and Algorithms preparation for place
 | Graphs                   | 0    | 0      | 0    | 0     |
 | Linked List              | 7    | 2      | 0    | 9     |
 | Queue                    | 0    | 0      | 0    | 0     |
-| Stack                    | 2    | 3      | 0    | 5     |
+| Stack                    | 3    | 3      | 1    | 7     |
 | Trees                    | 0    | 0      | 0    | 0     |
 | SDE Challenge <br/>Sheet | 2    | 3      | 0    | 5     |
 
-### Total Problems Solved: 45
+### Total Problems Solved: 47
 
 ---
 
@@ -170,6 +170,9 @@ This repository contains my Data Structures and Algorithms preparation for place
 * [x] Daily Temperatures
 * [x] Next Greater Element I
 * [x] Next Greater Element II
+* [x] Stock Span Problem
+* [x] Largest Rectangle in Histogram
+
 ## Upcoming Topics
 
 * [X] Linked List (Done)
