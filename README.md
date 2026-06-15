@@ -118,11 +118,11 @@ This repository contains my Data Structures and Algorithms preparation for place
 | Graphs                   | 0    | 0      | 0    | 0     |
 | Linked List              | 7    | 2      | 0    | 9     |
 | Queue                    | 0    | 0      | 0    | 0     |
-| Stack                    | 3    | 3      | 1    | 7     |
+| Stack                    | 4    | 3      | 1    | 8     |
 | Trees                    | 0    | 0      | 0    | 0     |
 | SDE Challenge <br/>Sheet | 2    | 3      | 0    | 5     |
 
-### Total Problems Solved: 47
+### Total Problems Solved: 48
 
 ---
 
@@ -172,6 +172,8 @@ This repository contains my Data Structures and Algorithms preparation for place
 * [x] Next Greater Element II
 * [x] Stock Span Problem
 * [x] Largest Rectangle in Histogram
+* [x] Backspace String Compare
+
 
 ## Upcoming Topics
 
