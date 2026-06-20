@@ -118,11 +118,11 @@ This repository contains my Data Structures and Algorithms preparation for place
 | Graphs                   | 0    | 0      | 0    | 0     |
 | Linked List              | 7    | 2      | 0    | 9     |
 | Queue                    | 0    | 0      | 0    | 0     |
-| Stack                    | 5    | 6      | 1    | 12    |
+| Stack                    | 5    | 7      | 1    | 13    |
 | Trees                    | 0    | 0      | 0    | 0     |
 | SDE Challenge <br/>Sheet | 2    | 3      | 0    | 5     |
 
-### Total Problems Solved: 52
+### Total Problems Solved: 53
 
 ---
 
@@ -177,6 +177,7 @@ This repository contains my Data Structures and Algorithms preparation for place
 * [x] Decode String 
 * [x] Asteroid Collision
 * [x] Simplify Path
+* [x] PostFix Evaluation
 
 
 ## Upcoming Topics
