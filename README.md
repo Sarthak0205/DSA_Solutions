@@ -34,6 +34,8 @@ This repository contains my Data Structures and Algorithms preparation for place
 
 * Product Of Arrays Except Self
 * Three Sum
+* Car Fleet
+
 
 ---
 
@@ -109,7 +111,7 @@ This repository contains my Data Structures and Algorithms preparation for place
 
 | Topic                    | Easy | Medium | Hard | Total |
 |--------------------------|------|--------|------|-------|
-| Arrays                   | 11   | 2      | 0    | 13    |
+| Arrays                   | 11   | 3      | 0    | 14    |
 | Strings                  | 3    | 0      | 0    | 3     |
 | Sliding Window           | 2    | 2      | 0    | 4     |
 | Binary Search            | 5    | 0      | 0    | 5     |
@@ -122,7 +124,7 @@ This repository contains my Data Structures and Algorithms preparation for place
 | Trees                    | 0    | 0      | 0    | 0     |
 | SDE Challenge <br/>Sheet | 2    | 3      | 0    | 5     |
 
-### Total Problems Solved: 54
+### Total Problems Solved: 55
 
 ---
 
@@ -136,6 +138,7 @@ This repository contains my Data Structures and Algorithms preparation for place
 * [x] Best Time To Buy And Sell Stock
 * [x] Product Of Arrays Except Self
 * [x] Three Sum
+* [x] Car Fleet
 
 ## Sliding Window
 
