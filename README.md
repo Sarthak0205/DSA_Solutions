@@ -113,7 +113,7 @@ This repository contains my Data Structures and Algorithms preparation for place
 
 | Topic                    | Easy | Medium | Hard | Total |
 |--------------------------|------|--------|------|-------|
-| Arrays                   | 11   | 3      | 0    | 14    |
+| Arrays                   | 11   | 5      | 0    | 16    |
 | Strings                  | 3    | 1      | 0    | 4     |
 | Sliding Window           | 2    | 2      | 0    | 4     |
 | Binary Search            | 5    | 0      | 0    | 5     |
@@ -126,7 +126,7 @@ This repository contains my Data Structures and Algorithms preparation for place
 | Trees                    | 0    | 0      | 0    | 0     |
 | SDE Challenge <br/>Sheet | 2    | 3      | 0    | 5     |
 
-### Total Problems Solved: 56
+### Total Problems Solved: 57
 
 ---
 
