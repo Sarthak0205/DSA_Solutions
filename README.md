@@ -123,10 +123,10 @@ This repository contains my Data Structures and Algorithms preparation for place
 | Linked List              | 7    | 2      | 0    | 9     |
 | Queue                    | 0    | 0      | 0    | 0     |
 | Stack                    | 5    | 7      | 2    | 13    |
-| Trees                    | 0    | 0      | 0    | 0     |
+| Trees                    | 5    | 0      | 0    | 5     |
 | SDE Challenge <br/>Sheet | 2    | 3      | 0    | 5     |
 
-### Total Problems Solved: 57
+### Total Problems Solved: 62
 
 ---
 
@@ -185,13 +185,19 @@ This repository contains my Data Structures and Algorithms preparation for place
 * [x] PostFix Evaluation
 * [x] Trapping Water
 
+## Trees
+* Invert Tree
+* Maximum Depth of Tree
+* Minimum Depth of Tree
+* Same Tree
+* Balanced Binary Tree
+
 
 ## Upcoming Topics
 
-* [X] Linked List (Done)
-* [X] Stack (Started)
-* [ ] Queue
-* [ ] Trees
+* [X] Linked List
+* [X] Stack
+* [x] Trees (Started)
 * [ ] Heap
 * [ ] Graphs
 * [ ] Dynamic Programming
