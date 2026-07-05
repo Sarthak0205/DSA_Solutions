@@ -188,9 +188,9 @@ This repository contains my Data Structures and Algorithms preparation for place
 ## Trees
 * Invert Tree
 * Maximum Depth of Tree
-* Minimum Depth of Tree
 * Same Tree
 * Balanced Binary Tree
+* Diameter of Binary Tree
 
 
 ## Upcoming Topics
