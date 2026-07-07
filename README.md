@@ -123,10 +123,10 @@ This repository contains my Data Structures and Algorithms preparation for place
 | Linked List              | 7    | 2      | 0    | 9     |
 | Queue                    | 0    | 0      | 0    | 0     |
 | Stack                    | 5    | 7      | 2    | 13    |
-| Trees                    | 5    | 2      | 0    | 7     |
+| Trees                    | 7    | 2      | 0    | 9     |
 | SDE Challenge <br/>Sheet | 2    | 3      | 0    | 5     |
 
-### Total Problems Solved: 64
+### Total Problems Solved: 66
 
 ---
 
