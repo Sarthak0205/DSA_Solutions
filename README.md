@@ -119,14 +119,14 @@ This repository contains my Data Structures and Algorithms preparation for place
 | Binary Search            | 5    | 0      | 0    | 5     |
 | Hashing                  | 1    | 0      | 0    | 1     |
 | DP                       | 0    | 0      | 0    | 0     |
-| Graphs                   | 0    | 0      | 0    | 0     |
+| Graphs                   | 1    | 1      | 0    | 2     |
 | Linked List              | 7    | 2      | 0    | 9     |
 | Queue                    | 0    | 0      | 0    | 0     |
 | Stack                    | 5    | 7      | 2    | 13    |
-| Trees                    | 7    | 2      | 0    | 9     |
+| Trees                    | 7    | 4      | 0    | 11    |
 | SDE Challenge <br/>Sheet | 2    | 3      | 0    | 5     |
 
-### Total Problems Solved: 66
+### Total Problems Solved: 68
 
 ---
 
