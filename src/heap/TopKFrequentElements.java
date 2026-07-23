@@ -1,6 +1,5 @@
-package arrays;
+package heap;
 
-import java.net.Inet4Address;
 import java.util.*;
 
 public class TopKFrequentElements {

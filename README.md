@@ -118,6 +118,7 @@ This repository contains my Data Structures and Algorithms preparation for place
 | Sliding Window           | 2    | 2      | 0    | 4     |
 | Binary Search            | 5    | 0      | 0    | 5     |
 | Hashing                  | 1    | 0      | 0    | 1     |
+| Heap                     | 0    | 2      | 0    | 2     |
 | DP                       | 0    | 0      | 0    | 0     |
 | Graphs                   | 1    | 1      | 0    | 2     |
 | Linked List              | 7    | 2      | 0    | 9     |
@@ -126,7 +127,7 @@ This repository contains my Data Structures and Algorithms preparation for place
 | Trees                    | 7    | 4      | 0    | 11    |
 | SDE Challenge <br/>Sheet | 2    | 3      | 0    | 5     |
 
-### Total Problems Solved: 68
+### Total Problems Solved: 69
 
 ---
 
